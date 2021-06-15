@@ -1,24 +1,25 @@
-# Ruby-On-Rails-CRUD
+# Ruby-On-Rails-CRUD-Pokemon-API
+
 Projeto API Crud Pokemon realizado com Ruby On Rails.
 
 #funcionamento
-Todas as etapas necessárias para obter o
+Todas as etapas necessÃ¡rias para obter o
 aplicativo instalado e funcionando.
 
-Coisas que você pode querer cobrir:
+Coisas que vocÃª pode querer cobrir:
 
-* Versão Ruby
+* VersÃ£o Ruby
 
-* Dependências do sistema
+* DependÃªncias do sistema
 
-* Configuração
+* ConfiguraÃ§Ã£o
 
-* Criação de banco de dados
+* CriaÃ§Ã£o de banco de dados
 
-* Inicialização do banco de dados
+* InicializaÃ§Ã£o do banco de dados
 
 * Como executar o pacote de testes
 
-* Serviços (filas de trabalho, servidores de cache, motores de busca, etc.)
+* ServiÃ§os (filas de trabalho, servidores de cache, motores de busca, etc.)
 
-* Instruções de implantação.
+* InstruÃ§Ãµes de implantaÃ§Ã£o.
